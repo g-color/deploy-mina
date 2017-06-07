@@ -11,7 +11,7 @@ require 'mina/rbenv'  # for rbenv support. (https://rbenv.org)
 set :application_name, 'mina'
 set :domain, '78.47.70.133'
 set :deploy_to, '/var/www/mina'
-set :repository, 'git@github.com:g-color/deploy-capistrano.git'
+set :repository, 'git@github.com:g-color/deploy-mina.git'
 set :branch, 'master'
 
 # Optional settings:
